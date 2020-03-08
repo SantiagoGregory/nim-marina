@@ -1,7 +1,7 @@
 #!/bin/bash
 
-nim c -r problem1.nim
-if [ $(nim c -r problem1.nim) -eq 15 ]
+nim c -r problem2.nim
+if [ $(nim c -r problem2.nim) -eq 10 ]
 then    
     echo 1
 else

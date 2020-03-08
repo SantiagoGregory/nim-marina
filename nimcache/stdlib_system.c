@@ -880,6 +880,7 @@ tyArray_r9aAb9cuhoh9cb9a123KVuMchQ globalMarkers_5ghwSgpo9cT9bT7YStQDJHVQ;
 TNimType NTI_kDPg4wXyR8DDyA0MeEjIsw_;
 TNimType NTI_nzqVemnc9ciXbJ4Iv5mPVnw_;
 TNimType NTI_nU4gAnbyYYUXplrWivbPYQ_;
+TNimType NTI_rR5Bzr1D5krxoo1NcNyeMA_;
 STRING_LITERAL(TM_Q5wkpxktOdTGvlSRo9bzt9aw_3, "", 0);
 STRING_LITERAL(TM_Q5wkpxktOdTGvlSRo9bzt9aw_4, "out of memory", 13);
 STRING_LITERAL(TM_Q5wkpxktOdTGvlSRo9bzt9aw_5, "No stack traceback available\012", 29);
@@ -13104,5 +13105,9 @@ NTI_nU4gAnbyYYUXplrWivbPYQ_.kind = 22;
 NTI_nU4gAnbyYYUXplrWivbPYQ_.base = (&NTI_nzqVemnc9ciXbJ4Iv5mPVnw_);
 NTI_nU4gAnbyYYUXplrWivbPYQ_.flags = 2;
 NTI_nU4gAnbyYYUXplrWivbPYQ_.marker = Marker_tyRef_nU4gAnbyYYUXplrWivbPYQ;
+NTI_rR5Bzr1D5krxoo1NcNyeMA_.size = sizeof(NI);
+NTI_rR5Bzr1D5krxoo1NcNyeMA_.kind = 31;
+NTI_rR5Bzr1D5krxoo1NcNyeMA_.base = 0;
+NTI_rR5Bzr1D5krxoo1NcNyeMA_.flags = 3;
 }
 
