@@ -1,0 +1,8 @@
+{"compile":[
+],
+"link":[
+"/home/santiago/Documents/Nim/nim-marina/nimcache/problem1.o",
+"/home/santiago/Documents/Nim/nim-marina/nimcache/stdlib_system.o"
+],
+"linkcmd": "gcc   -o /home/santiago/Documents/Nim/nim-marina/problem1  /home/santiago/Documents/Nim/nim-marina/nimcache/problem1.o /home/santiago/Documents/Nim/nim-marina/nimcache/stdlib_system.o    -ldl"
+}
