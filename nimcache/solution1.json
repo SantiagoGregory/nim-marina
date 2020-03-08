@@ -1,0 +1,10 @@
+{"compile":[
+["/home/santiago/Documents/Nim/nim-marina/nimcache/solution1.c", "gcc -c  -w  -I/usr/lib/nim -o /home/santiago/Documents/Nim/nim-marina/nimcache/solution1.o /home/santiago/Documents/Nim/nim-marina/nimcache/solution1.c"],
+["/home/santiago/Documents/Nim/nim-marina/nimcache/stdlib_system.c", "gcc -c  -w  -I/usr/lib/nim -o /home/santiago/Documents/Nim/nim-marina/nimcache/stdlib_system.o /home/santiago/Documents/Nim/nim-marina/nimcache/stdlib_system.c"]
+],
+"link":[
+"/home/santiago/Documents/Nim/nim-marina/nimcache/solution1.o",
+"/home/santiago/Documents/Nim/nim-marina/nimcache/stdlib_system.o"
+],
+"linkcmd": "gcc   -o /home/santiago/Documents/Nim/nim-marina/solution1  /home/santiago/Documents/Nim/nim-marina/nimcache/solution1.o /home/santiago/Documents/Nim/nim-marina/nimcache/stdlib_system.o    -ldl"
+}
